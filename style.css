@@ -1,0 +1,319 @@
+@media  screen and (min-width:1024px){
+    .nav_btn{
+        padding: 15px 30px;
+        background: white;
+        color:  #475F45;
+        border: 2px solid #475F45;
+        text-decoration: none;       
+    }
+.margin{
+    margin-top: 80px;
+    Font-family:  Libre Baskerville;
+    Font-style: Regular;
+    Font-size: 43.73px;
+    Line-height: 48px;
+    Line-height: 110%;
+    Vertical-align: Top;
+    color: #343D33;
+    margin-bottom: 8%;
+}
+.margin1{
+    margin-left: 35%;
+}
+.margin3{
+   margin-left: 58%;
+}
+.font{
+    
+    font-size: 10.74px;
+    font-family: roboto;
+    font-style: bold;
+    line-height: 13px;
+    line-height: 100%;
+    margin-right: 5%;
+   vertical-align: top;
+   letter-spacing: 13%;
+   
+}
+.h7{
+    Font-family: Roboto;
+Font-style: Bold;
+Font-size: 14px;
+Line-height: 16px;
+Line-height: 100%;
+color:#414840;
+Vertical-align: Top;
+Letter-spacing: 15%;
+    
+}
+.col_Home{
+    color: #475F45;
+
+}
+.col_Visit_EXHIBITIONS_store{
+    color: #414840;
+}
+
+.p{
+    Line-height: 150%;
+ font-size: 19.18px;
+Line-height: 29px;
+Font-style: Light;
+Vertical-align: Top;
+Font-family: Roboto;
+margin-right: 40%;
+color:#414840;
+
+}
+.align1{
+    margin-top: 15%; 
+    margin-left: 23%; 
+}
+.align2{
+    margin-top: 15%;
+    margin-left:28%;
+    color: #FFFFFF;
+    Font-family: Libre Baskerville;
+    Font-style: Regular;
+    Font-size: 45px;
+    Line-height: 50px;
+    Line-height: 110%;
+    Vertical-align: Top;
+}
+.background{
+    background-color:  #343D33;
+    
+}
+.p2{
+    margin-left:28%;
+    margin-right: 20%;
+    Font-family: Roboto;
+    Font-style: Regular;
+    Font-size: 20px;
+    Line-height: 30px;
+    Line-height: 150%;
+    color: #FFFFFF;
+    Vertical-align: Top;
+}
+.btn3{
+    margin-left:28%;
+    color: #FFFFFF;
+    background-color: #343D33;
+    Font-family: Roboto;
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 16px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    Letter-spacing: 15%;
+
+}
+.btn_1{
+    background-color: #475F45;
+    Font-family: Roboto;
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 16px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    Letter-spacing: 15%;
+    color: #FFFFFF;
+    }
+.btn_2{
+    color: #475F45;
+    Font-family: Roboto;
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 16px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    Letter-spacing: 15%;
+    }
+.img{
+    margin-left: 11.1%;
+    margin-top: 7.5%; 
+    margin-bottom: 7.5%;
+}
+.h4{
+    Font-family: Libre Baskerville;
+    Font-style: Regular;
+    Font-size: 45px;
+    Line-height: 50px;
+    Line-height: 110%;
+    color: #343D33;
+    
+    Vertical-align: Top;
+    }
+.align3{
+    margin-top: 7.5%; 
+    margin-bottom: 7.5%;
+}
+.btn_4{
+    Font-family: Roboto;
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 16px;
+    Line-height: 100%;
+    color: #475F45;
+    Vertical-align: Top;
+    Letter-spacing: 15%;
+    margin-left: 10%;;
+    }
+    .h6{
+      
+        Font-family: Libre Baskerville;;
+        Font-style: Regular;
+        Font-size: 23px;
+        Line-height: 25px;
+        Line-height: 110%;
+        
+        color:#475F45;
+        Vertical-align: Top
+    }
+    .p3{
+        margin-right: 52%;
+        Font-family: Roboto;
+        Font-style: Regular;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+        color: #343D33;
+        Vertical-align: Top;
+    }
+    .p4{
+       
+        color: #343D33;
+        Font-style: Italic;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+      
+        Vertical-align: Top;
+                }
+    .h7{
+        Font-family: Libre Baskerville;
+        Font-style: Regular;
+        Font-size: 23px;
+        Line-height: 25px;
+        Line-height: 110%;
+        Vertical-align: Top;
+            }
+    .p5{
+        Font-family: Roboto;
+        Font-style: Regular;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+        color: #414840;
+        Vertical-align: Top;
+      }
+      .align5{
+          margin-top: 15%;       
+      }
+      .title{
+       
+        Font-family: Libre Baskerville;
+        Font-style: Regular;
+        Font-size: 23px;
+        Line-height: 25px;
+        Line-height: 110%;
+        Vertical-align: Top;
+        color: #475F45;
+        
+      }
+      .p6{
+        Font-family: Roboto;
+        Font-style: Regular;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+       color: #414840;
+        Vertical-align: Top;
+      }
+      .p7{
+        color: #343D33;
+        Font-style: Italic;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+        margin-bottom: 20%;
+        Vertical-align: Top;
+                
+      }
+      .background_2{
+          background-color: crimson;
+      }
+      .align6{
+          margin-left: 8%;
+          
+      }
+      .p8{
+        Font-family: Roboto;
+        Font-style: Regular;
+        Font-size: 16px;
+        Line-height: 24px;
+        Line-height: 150%;
+       color: white;
+        Vertical-align: Top;
+        margin-top: 5%;
+      }
+      .align8{
+          margin-left: 15%;
+          
+      }
+      .siteup{
+        Font-family: Libre Baskerville;
+        Font-style: Regular;
+        font-feature-settings: 16px;
+        Line-height: 18px;
+        Line-height: 110%;
+       color: #FFFFFF;
+       ;
+        Vertical-align: Top;
+      }
+      .h7{
+        Font-family: Roboto;
+        Font-style: Regular;
+        Font-size: 14px;
+        Line-height: 16px;
+        Line-height: 100%;
+        color: #FFFFFF;
+        
+        Vertical-align: Top;
+
+      }
+      .back{
+          background-color:#414840;
+         
+      }
+      .footer{
+          color: white;
+          background: #343D33;
+        padding: 2% 2% 2% 2%;
+      }
+      .top{
+         color: white;
+        margin-top:10%;
+        Font-style: Regular;
+        Font-size: 16px;
+        Line-height: 18px;
+        Line-height: 110%;
+
+        Vertical-align: Top;
+      
+      }
+      .icon{
+        
+        Stroke: Solid;
+        color:#FFFFFF;
+        border:  2px;
+        margin-right: 9%;
+         }
+
+      }
+      @media only screen and (max-width:767px){
+          .container{
+              width: 100%;
+          }
+
+      }
